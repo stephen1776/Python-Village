@@ -1,4 +1,8 @@
-# Rosalind_Python_Village
+# Steve's Solutions for Python Village on ROSALIND
+## Description ##
+This is my collection of Python codes that I wrote in solving the [Pyhton Village](http://rosalind.info/problems/list-view/?location=python-village) problems on [ROSALIND](http://rosalind.info/). ROSALIND is a platform for learning bioinformatics and programming through problem solving. 
+
+My ROSALIND Profile: http://rosalind.info/users/spblatti/
 ## INI1_installing_python.py
 '''Problem: After downloading and installing Python, type import this into the Python command line and see what happens.'''
 ## INI2_variables_arithmetic.py
