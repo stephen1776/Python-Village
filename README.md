@@ -1,4 +1,4 @@
-# Steve's Solutions for Python Village on ROSALIND
+# Steve's Python Village Solutions
 ## Description ##
 This is my collection of Python codes that I wrote in solving the [Pyhton Village](http://rosalind.info/problems/list-view/?location=python-village) problems on [ROSALIND](http://rosalind.info/). ROSALIND is a platform for learning bioinformatics and programming through problem solving. 
 
